@@ -10,5 +10,3 @@
 // 4. Parallel Execution: Playwright has built-in support for parallel test execution, while Cypress requires additional setup for parallelization.
 // 5. Community and Ecosystem: Cypress has a larger community and a more extensive ecosystem of plugins and integrations compared to Playwright.
 // Overall, both Playwright and Cypress are powerful tools for end-to-end testing, and the choice between them often depends on specific project requirements and developer preferences.
-
- 
